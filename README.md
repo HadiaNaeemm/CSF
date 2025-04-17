@@ -1,6 +1,8 @@
 # CSF
 This repository contains all the codes used in the manuscript titled "[Diverse Performance in Compressive Sensing-Based Reconstruction of uncoupled and coupled Landau-Stuart oscillators]". The scripts and functions provided here were used for data processing, analysis, and figure generation.
 ### Code Overview
+#### Section 2.1.2 (Figure 1)
+- Phase Potrait of LSO (`LSO_Fig1`)
 #### Section 3.1.1 (Figure 3)
 - **SLSO_LO**, **SLSO_HO**, **SLSO_HO1**: Simulations for a single Landau-Stuart (LS) oscillator using:
   - Low-order basis functions (`SLSO_LO`)
