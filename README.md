@@ -1,5 +1,5 @@
 # CSF
-This repository contains all the codes used in the manuscript titled "[Diverse Performance in Compressive Sensing-Based Reconstruction of uncoupled and coupled Landau-Stuart oscillators]". The scripts and functions provided here were used for data processing, analysis, and figure generation.
+This repository contains all the codes used in the manuscript titled "[Hadia Naeem#, Chun-Wang Su#, Mei Ji, Nan Yao, Zi-Gang Huang*, and Celso Grebogi. Diverse Performance in Compressive Sensing-Based Reconstruction of an oscillatory dynamical system.Chaos Solitons & Fractals, 2025, 198:116508.]". The scripts and functions provided here were used for data processing, analysis, and figure generation.
 ### Code Overview
 #### Section 2.1.2 (Figure 1)
 - Phase Potrait of LSO (`LSO_Fig1`)
